@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660654673592",
+    "project_id": "rushortsbase2",
+    "storage_bucket": "rushortsbase2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660654673592:android:8d3112c769660baf77ae4d",
+        "android_client_info": {
+          "package_name": "diplom_pack.client.client_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660654673592-oebpue9fsh140v4pmg1qpu261jsp3v9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVNiFYbFT_RFoxi9zo6Ub08tHrsDufRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660654673592-oebpue9fsh140v4pmg1qpu261jsp3v9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
