@@ -75,7 +75,6 @@ public class ImagesAdapter extends RecyclerView.Adapter<ImagesAdapter.ViewHolder
             imageView = view.findViewById(R.id.imageViewLike);
             this.view = view;
 
-            //Glide.with(view).load(imagesRef).into(imageView);
 
 
         }
